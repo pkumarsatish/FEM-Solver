@@ -1,4 +1,5 @@
-Makefile is being used for compiling and building the executable. Use the following steps:  
+PLEASE READ se291h2.pdf first.
+Makefile is being used for compiling and building the executable. Use the following steps:
 
 1. open aloc.h to change eps and N values for the problem
 2. make: to compile the program, It generates 'fem1' executable.
