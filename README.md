@@ -1,6 +1,5 @@
 ## FEM 1D 
-### Program to solve one-dimensional boundry value problems using Galerkin FEM. 
-### READ se291h2.pdf for an specific example.
+#### Program to solve one-dimensional boundry value problems using Galerkin FEM. READ se291h2.pdf for an specific example.
 
 ### Requirment 
 gcc, gnuplot
