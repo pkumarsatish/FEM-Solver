@@ -13,4 +13,4 @@ vnorm.o:
 fplot.o:
 	gcc -Wall -c fplot.c -o fplot.o
 clean:
-	rm -rf *o 04satish.out
+	rm -rf *.o
